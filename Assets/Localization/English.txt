@@ -1,0 +1,15 @@
+﻿AmmoPickup = F to take Ammo
+LargeKitPickup = F to take First Aid Kit
+SmallKitPickup = F to use Medication
+
+AmmoPickupFull = Ammo full
+LargeKitPickupFull = Medical Kits full
+SmallKitPickupFull = Health Full
+
+Touch_AmmoPickup = Touch Ammopack to pickup
+Touch_LargeKitPickup = Touch First Aid Kit to pickup
+Touch_SmallKitPickup = Touch to use Medication
+
+Touch_AmmoPickupFull = Ammo full
+Touch_LargeKitPickupFull = Medical Kits full
+Touch_SmallKitPickupFull = Health Full

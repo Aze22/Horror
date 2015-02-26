@@ -1,0 +1,3 @@
+﻿AmmoPickup = F pour prendre munitions
+LargeKitPickup = F pour ramasser kit de soin
+SmallKitPickup = F pour utiliser les médicaments
